@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: avatar
+  m_Mask: 00000000000000000000000000000000000000000000000000000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: bRASOS
+    m_Weight: 0
+  - m_Path: Esqueleto
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/Bicep.L
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/anular1.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/anular1.L/anular2.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/anular1.L/anular2.L/anular3.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/anular1.L/anular2.L/anular3.L/anular3.L_end
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/cora1.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/cora1.L/cora2.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/cora1.L/cora2.L/cora3.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/cora1.L/cora2.L/cora3.L/cora3.L_end
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/indice1.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/indice1.L/indice2.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/indice1.L/indice2.L/indice3.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/indice1.L/indice2.L/indice3.L/indice3.L_end
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/me\xF1ique1.L"
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/me\xF1ique1.L/me\xF1ique2.L"
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/me\xF1ique1.L/me\xF1ique2.L/me\xF1ique3.L"
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/me\xF1ique1.L/me\xF1ique2.L/me\xF1ique3.L/me\xF1ique3.L_end"
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/pulgar1.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/pulgar1.L/pulgar2.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/pulgar1.L/pulgar2.L/pulgar3.L
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.L/Antrbrazo.L/Mano.L/pulgar1.L/pulgar2.L/pulgar3.L/pulgar3.L_end
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/anular1.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/anular1.R/anular2.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/anular1.R/anular2.R/anular3.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/anular1.R/anular2.R/anular3.R/anular3.R_end
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/cora1.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/cora1.R/cora2.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/cora1.R/cora2.R/cora3.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/cora1.R/cora2.R/cora3.R/cora3.R_end
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/indice1.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/indice1.R/indice2.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/indice1.R/indice2.R/indice3.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/indice1.R/indice2.R/indice3.R/indice3.R_end
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/me\xF1ique1.R"
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/me\xF1ique1.R/me\xF1ique2.R"
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/me\xF1ique1.R/me\xF1ique2.R/me\xF1ique3.R"
+    m_Weight: 1
+  - m_Path: "Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/me\xF1ique1.R/me\xF1ique2.R/me\xF1ique3.R/me\xF1ique3.R_end"
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/pulgar1.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/pulgar1.R/pulgar2.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/pulgar1.R/pulgar2.R/pulgar3.R
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/Bicep.R/Antrbrazo.R/Mano.R/pulgar1.R/pulgar2.R/pulgar3.R/pulgar3.R_end
+    m_Weight: 1
+  - m_Path: Esqueleto/RootBone/IK ArmPole.L
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/IK ArmPole.L/IK ArmPole.L_end
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/IK ArmPole.R
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/IK ArmPole.R/IK ArmPole.R_end
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/IK ArmTarget.L
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/IK ArmTarget.L/IK ArmTarget.L_end
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/IK ArmTarget.R
+    m_Weight: 0
+  - m_Path: Esqueleto/RootBone/IK ArmTarget.R/IK ArmTarget.R_end
+    m_Weight: 0
+  - m_Path: ScaleReference
+    m_Weight: 0
+  - m_Path: Sol
+    m_Weight: 0

@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-716686766973051432
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Stylized Water 1
+  m_Shader: {fileID: -6465566751694194690, guid: 1ca20cdbeede4bc43a2840ccd53d7ea6, type: 3}
+  m_ValidKeywords:
+  - _SURFACE_TYPE_TRANSPARENT
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap:
+    RenderType: Transparent
+  disabledShaderPasses:
+  - DepthOnly
+  - SHADOWCASTER
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _FoamTexture:
+        m_Texture: {fileID: 2800000, guid: 91178ebd1b8009944b9d02e107f67808, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ce26dbf0aee7445aac16eeb75c368a70_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 636eca33f6f005649a9e3ddb5247ac34, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Alpha: 1
+    - _AlphaClip: 0
+    - _Blend: 0
+    - _CastShadows: 0
+    - _CausticCutOut: 0.8
+    - _CausticSpeed: 0.0005
+    - _Cull: 2
+    - _Depth: 4.88
+    - _DepthFalloff: 0.88
+    - _DetailsAlpha: 0.59
+    - _DstBlend: 10
+    - _FoamAmmount: 0.5
+    - _FoamCutOut: 0.49
+    - _FoamDepth: 6.49
+    - _FoamFallOff: 0.67
+    - _FoamShortWidth: 0.7
+    - _FoamTiling: 1.14
+    - _MainAlpha: 0.16
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _ScaleCausticNoise: 242.18
+    - _SrcBlend: 5
+    - _Surface: 1
+    - _WaveIntesity: 0.1
+    - _WaveSpace: 0.4
+    - _WaveSpeed: 4.03
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _ZWriteControl: 0
+    m_Colors:
+    - _CausticColor: {r: 8.47419, g: 8.47419, b: 8.47419, a: 0}
+    - _FoamColor: {r: 1, g: 1, b: 1, a: 0}
+    - _FoamSpeed: {r: 0, g: -0.1, b: 0, a: 0}
+    - _MainColor: {r: 0.16522783, g: 0.3213966, b: 0.745283, a: 0}
+    - _ShortColor: {r: 0, g: 0.55049276, b: 1, a: 0}
+  m_BuildTextureStacks: []

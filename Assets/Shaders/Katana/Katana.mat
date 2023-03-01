@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2505149229603455107
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Katana
+  m_Shader: {fileID: -6465566751694194690, guid: 47e6b70b82c0fe8449cd1375f5630c96, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BladeMap:
+        m_Texture: {fileID: 2800000, guid: 035a76abb2d0e9b488451779f100c02c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CircleMap:
+        m_Texture: {fileID: 2800000, guid: 6e53a180bbc4ef5439232d0990d570d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailsMap:
+        m_Texture: {fileID: 2800000, guid: 70abd7b4764ff0a42a3c4b4d8f244fcf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MangoMap:
+        m_Texture: {fileID: 2800000, guid: ca62c9d5daed1c04cb1dc69a0a9f4d71, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_07b2806cbada4073b7a742fc31029d5b_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 70abd7b4764ff0a42a3c4b4d8f244fcf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_1ac05604b974403daa386a78c6ab4722_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 035a76abb2d0e9b488451779f100c02c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_885eccc8f2434b04bbebe06042eb1511_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 035a76abb2d0e9b488451779f100c02c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a024b7ff9ded419b83414ba3cb72040a_Texture_1:
+        m_Texture: {fileID: 2800000, guid: ca62c9d5daed1c04cb1dc69a0a9f4d71, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_d50b9bb5860741be8946b05f167392c1_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 6e53a180bbc4ef5439232d0990d570d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_d69722416c3a40bea945aa9cda82b295_Out_0:
+        m_Texture: {fileID: 2800000, guid: 035a76abb2d0e9b488451779f100c02c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0
+    - _BladeEmmision: 0
+    - _Blend: 0
+    - _CastShadows: 1
+    - _Cull: 2
+    - _DetailsEmmisionScale: 2
+    - _DetailsEmmisionVel: 1
+    - _DstBlend: 0
+    - _Edge: 0.9
+    - _EmmsionPower: 1.4
+    - _MangoSmooth: 0.5
+    - _Metalic: 1
+    - _MetalicSmooth: 0.5
+    - _OnlyShadowRim: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _RimBlend: 0
+    - _RimSize: 0.42
+    - _Scale: 18
+    - _Scale_2: 4
+    - _ShadowBlend: 0
+    - _ShadowSize: 0.42
+    - _Smooth: 0.5
+    - _SrcBlend: 1
+    - _Start: 36
+    - _Surface: 0
+    - _Toon: 1
+    - _WorkflowMode: 1
+    - _ZTest: 4
+    - _ZWrite: 1
+    - _ZWriteControl: 0
+    m_Colors:
+    - _BladeColor: {r: 0.92941177, g: 0.8901961, b: 0.8901961, a: 0}
+    - _BladeEmission: {r: 1, g: 1, b: 1, a: 0}
+    - _BladeEmssionCollor: {r: 0.9624374, g: 1, b: 0, a: 0}
+    - _BladeEmssionColor: {r: 0.6130206, g: 0.22843692, b: 0.34119445, a: 0}
+    - _CircleColor: {r: 0.6156863, g: 0.21176471, b: 0.15686275, a: 0}
+    - _DetailsColor: {r: 2.9960785, g: 2.6039217, b: 1.7254902, a: 0}
+    - _DetailsEmmsionColor: {r: 1.4980392, g: 0.16470589, b: 0.023529412, a: 0}
+    - _EdgeColor: {r: 0.9019608, g: 0.03933786, b: 0.03933786, a: 0}
+    - _EmissionVel: {r: -0.1, g: -0.2, b: 0, a: 0}
+    - _MainColor: {r: 1, g: 1, b: 1, a: 0}
+    - _MainColorToon: {r: 1, g: 1, b: 1, a: 0}
+    - _MangoColor: {r: 0.4745098, g: 0.2, b: 0.09803922, a: 0}
+    - _RimColor: {r: 0.18867922, g: 0.18867922, b: 0.18867922, a: 0}
+    - _ShadowColor: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 0}
+  m_BuildTextureStacks: []
