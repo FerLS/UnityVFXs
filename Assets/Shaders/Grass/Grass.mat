@@ -22,8 +22,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Grass
   m_Shader: {fileID: 4800000, guid: 6a3e2735b17d53f488d73d8e4e6ae19c, type: 3}
-  m_ValidKeywords:
-  - BLEND
+  m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -93,9 +92,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-    - _AmbientAdjustment: 1
+    - _AmbientAdjustment: 2.08
     - _Blend: 0
-    - _BlendFloor: 1
+    - _BlendFloor: 0
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -105,7 +104,7 @@ Material:
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _Fade: 0
+    - _Fade: -0.09
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0

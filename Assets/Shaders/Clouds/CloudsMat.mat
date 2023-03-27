@@ -51,7 +51,7 @@ Material:
     - _BaseSpeed: -0.5
     - _BaseStrenght: 1
     - _CloudDensity: 107.3
-    - _CurvatureRadoius: 1000
+    - _CurvatureRadoius: 304.1
     - _EmmsionStrength: 0.1
     - _FressnelOpacity: 1
     - _FressnelPower: 9.4
