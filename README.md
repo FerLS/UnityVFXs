@@ -1,11 +1,11 @@
-# Recopilacion de Shaders y VFX en Unity
+# Compilation of Shaders and VFX in Unity
 
-Pequeños VFX hechos con VfxGraph y ShaderGraph en Unity utilizando la Universal Render Pipeline (URP).
-Se puede probar una demo funcional en el apartado de [releases](https://github.com/FerLS/UnityShaderGraphAndVFX/releases/tag/1.0.0)
+Small VFX created using VfxGraph and ShaderGraph in Unity using the Universal Render Pipeline (URP).
+A functional demo can be tested in the [releases section](https://github.com/FerLS/UnityShaderGraphAndVFX/releases/tag/1.0.0).
 
-No todo lo que hice esta expuesto en la demo, ver el proyecto para mas detalle
+Not everything I did is showcased in the demo; refer to the project for more details.
 
 ## Disclaimer
-No todos los modelos son mios, asi como las ideas de los VFX.
+Not all models are mine, and the VFX ideas are not all original.
 
-Hierba hecha por [Minion's Art](https://www.patreon.com/minionsart)
+Grass created by [Minion's Art](https://www.patreon.com/minionsart).
